@@ -15,7 +15,7 @@ namespace Proyecto_0001_DriverSchool.Controllers
         private readonly ApplicationDbContext _context;
         private readonly ITrabajadorQueries _trabajadorQueries;
         private readonly ITrabajadorCommand _trabajadorCommand;
-
+        //comentario
         public TrabajadorController(ApplicationDbContext context, ITrabajadorQueries trabajadorQueries, ITrabajadorCommand trabajadorCommand)
         {
             _context = context;
