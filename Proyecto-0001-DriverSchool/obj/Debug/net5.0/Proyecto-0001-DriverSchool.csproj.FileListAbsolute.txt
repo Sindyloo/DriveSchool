@@ -55,4 +55,9 @@ C:\Users\ADMIN\Desktop\PRACTICAS\Proyectos\Proyecto-0001-DriverSchool\Proyecto-0
 C:\Users\ADMIN\Desktop\PRACTICAS\Proyectos\Proyecto-0001-DriverSchool\Proyecto-0001-DriverSchool\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\ADMIN\Desktop\PRACTICAS\Proyectos\Proyecto-0001-DriverSchool\Proyecto-0001-DriverSchool\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\ADMIN\Desktop\PRACTICAS\Proyectos\Proyecto-0001-DriverSchool\Proyecto-0001-DriverSchool\obj\Debug\net5.0\Proyecto-0001-DriverSchool.csproj.AssemblyReference.cache
-C:\Users\ADMIN\Desktop\PRACTICAS\Proyectos\Proyecto-0001-DriverSchool\Proyecto-0001-DriverSchool\bin\Debug\net5.0\ref\Proyecto-0001-DriverSchool.dll
+C:\Users\ADMIN\Desktop\PRACTICAS\Proyectos\Proyecto-0001-DriverSchool\Proyecto-0001-DriverSchool\obj\Debug\net5.0\staticwebassets\Proyecto-0001-DriverSchool.StaticWebAssets.Pack.cache
+C:\Users\ADMIN\Desktop\PRACTICAS\Proyectos\Proyecto-0001-DriverSchool\Proyecto-0001-DriverSchool\obj\Debug\net5.0\staticwebassets\msbuild.Proyecto-0001-DriverSchool.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ADMIN\Desktop\PRACTICAS\Proyectos\Proyecto-0001-DriverSchool\Proyecto-0001-DriverSchool\obj\Debug\net5.0\staticwebassets\msbuild.build.Proyecto-0001-DriverSchool.props
+C:\Users\ADMIN\Desktop\PRACTICAS\Proyectos\Proyecto-0001-DriverSchool\Proyecto-0001-DriverSchool\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Proyecto-0001-DriverSchool.props
+C:\Users\ADMIN\Desktop\PRACTICAS\Proyectos\Proyecto-0001-DriverSchool\Proyecto-0001-DriverSchool\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Proyecto-0001-DriverSchool.props
+C:\Users\ADMIN\Desktop\PRACTICAS\Proyectos\Proyecto-0001-DriverSchool\Proyecto-0001-DriverSchool\obj\Debug\net5.0\refint\Proyecto-0001-DriverSchool.dll

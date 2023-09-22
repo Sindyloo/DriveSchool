@@ -63,10 +63,12 @@ namespace Proyecto_0001_DriverSchool
         {
             if (env.IsDevelopment())
             {
-                app.UseDeveloperExceptionPage();
-                app.UseSwagger();
-                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "Proyecto_0001_DriverSchool v1"));
+               
             }
+
+            app.UseDeveloperExceptionPage();
+            app.UseSwagger();
+            app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "Proyecto_0001_DriverSchool v1"));
 
             app.UseHttpsRedirection();
             app.UseCors("MyCustomPolicy");
